@@ -1,0 +1,19 @@
+{
+  "name": "com.heax3.procedures-unity",
+  "version": "1.0.0",
+  "displayName": "Procedures",
+  "description": "Framework to control sequential procedures.",
+  "unity": "2022.3",
+  "unityRelease": "12f1",
+  "documentationUrl": "https://github.com/HeaX3/procedures-unity",
+  "licensesUrl": "https://github.com/HeaX3/procedures-unity",
+  "keywords": [],
+  "author": {
+    "name": "HeaX3",
+    "email": "heax@moonsama.com",
+    "url": "https://www.moonsama.com"
+  },
+  "dependencies": {
+    "com.heax3.rsg-promise-unity": ""
+  }
+}
